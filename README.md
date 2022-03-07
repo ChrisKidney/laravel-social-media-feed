@@ -4,7 +4,7 @@
 
 ## About This Laravel App
 
-This application was developed for the final project in a Web Application Programming class at NSCC. It is a social media feed developed in Laravel that allows users to change the site theme, make create, edit, and delete posts. 
+This application was developed for the final project in a Web Application Programming class at college. It is a social media feed developed in Laravel that allows users to change the site theme, make create, edit, and delete posts. 
 
 It includes an administration role system as well, that includes three roles: \
 User Administrator - Can edit user's roles, as well as delete users.\
